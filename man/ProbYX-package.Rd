@@ -26,7 +26,7 @@ LazyLoad: \tab yes\cr
 }
 \author{Giuliana Cortese
 
-Maintainer: Giuliana Cortese \email{<gcortese@stat.unipd.it>}
+Maintainer: Giuliana Cortese \email{gcortese@stat.unipd.it}
 }
 \references{
 	Cortese G., Ventura L. (2013). Accurate higher-order likelihood inference on P(Y<X). Computational Statistics, 28:1035-1059.\cr

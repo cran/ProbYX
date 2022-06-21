@@ -1,7 +1,7 @@
 Package: ProbYX
 Type: Package
 Title: Inference for the Stress-Strength Model R = P(Y<X)
-Version: 1.1-0
+Version: 1.1-0.1
 Date: 2015-12-17
 Author: Giuliana Cortese
 Maintainer: Giuliana Cortese <gcortese@stat.unipd.it>
@@ -10,7 +10,7 @@ Description: Confidence intervals and point estimation for R under various param
 License: GPL-2
 LazyLoad: yes
 Imports: stats, graphics
-Packaged: 2015-12-21 08:36:35 UTC; Giuliana
+Packaged: 2022-06-21 08:38:50 UTC; hornik
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2015-12-21 11:33:28
+Date/Publication: 2022-06-21 08:57:52 UTC
